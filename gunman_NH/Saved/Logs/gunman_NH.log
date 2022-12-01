@@ -2431,3 +2431,699 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.12.01-21.04.54:427][762]LogFileHelpers: Saving map 'Untitled' took 0.024
 [2022.12.01-21.04.54:438][762]AssetCheck: New page: Asset Save: Untitled
 [2022.12.01-21.04.54:438][762]LogContentValidation: Display: Validating World /Game/Maps/map_1/Untitled.Untitled
+[2022.12.01-21.06.27:922][716]Cmd: TRANSACTION UNDO
+[2022.12.01-21.06.27:922][716]LogEditorTransaction: Undo Tile Erasing
+[2022.12.01-21.06.28:248][726]Cmd: TRANSACTION UNDO
+[2022.12.01-21.06.28:248][726]LogEditorTransaction: Undo Tile Erasing
+[2022.12.01-21.06.28:698][737]Cmd: TRANSACTION UNDO
+[2022.12.01-21.06.28:698][737]LogEditorTransaction: Undo Tile Erasing
+[2022.12.01-21.06.29:027][775]Cmd: TRANSACTION UNDO
+[2022.12.01-21.06.29:027][775]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.06.29:311][792]Cmd: TRANSACTION UNDO
+[2022.12.01-21.06.29:311][792]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.06.29:666][833]Cmd: TRANSACTION UNDO
+[2022.12.01-21.06.29:666][833]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.07.25:758][409]LogSavePackage: Moving '../../../../../../Users/NeHer/OneDrive/Documents/games im workin on/Gunman_masterfolder/gunman_NH/Saved/city_subway_mapBED96B2E47ACD94FD62165B154F65B01.tmp' to '../../../../../../Users/NeHer/OneDrive/Documents/games im workin on/Gunman_masterfolder/gunman_NH/Content/nicola_h_content/tilesets/city_subway_map.uasset'
+[2022.12.01-21.07.25:768][409]AssetCheck: New page: Asset Save: city_subway_map
+[2022.12.01-21.07.25:768][409]LogContentValidation: Display: Validating PaperTileMap /Game/nicola_h_content/tilesets/city_subway_map.city_subway_map
+[2022.12.01-21.07.27:147][559]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.12.01-21.07.27:150][559]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.01-21.07.27:150][559]PIE: New page: PIE session: Untitled (Dec 1, 2022, 9:07:27 AM)
+[2022.12.01-21.07.27:150][559]LogPlayLevel: Creating play world package: /Game/Maps/map_1/UEDPIE_0_Untitled
+[2022.12.01-21.07.27:152][559]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001481s)
+[2022.12.01-21.07.27:153][559]LogAIModule: Creating AISystem for world Untitled
+[2022.12.01-21.07.27:153][559]LogPlayLevel: PIE: World Init took: (0.000794s)
+[2022.12.01-21.07.27:153][559]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/map_1/Untitled.Untitled to /Game/Maps/map_1/UEDPIE_0_Untitled.Untitled (0.002362s)
+[2022.12.01-21.07.27:196][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.12.01-21.07.27:235][559]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2022.12.01-21.07.27:236][559]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.01-21.07.27:236][559]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.01-21.07.27:236][559]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.01-21.07.27:236][559]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.01-21.07.27:236][559]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.01-21.07.27:236][559]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.01-21.07.27:236][559]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.01-21.07.27:236][559]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.01-21.07.27:236][559]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.01-21.07.27:236][559]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.01-21.07.27:236][559]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.01-21.07.27:236][559]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.01-21.07.27:239][559]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.01-21.07.27:239][559]LogAudioMixer: Display: 1: FrontRight
+[2022.12.01-21.07.27:243][559]LogAudioMixer: Display: Using Audio Device Headphones (Realtek USB2.0 Audio)
+[2022.12.01-21.07.27:243][559]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.01-21.07.27:243][559]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.01-21.07.27:243][559]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.01-21.07.27:244][559]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.01-21.07.27:244][559]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.01-21.07.27:244][559]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.01-21.07.27:245][559]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.01-21.07.27:245][559]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.01-21.07.27:245][559]LogInit: FAudioDevice initialized.
+[2022.12.01-21.07.27:245][559]LogAudio: Display: Audio Device (ID: 21) registered with world 'Untitled'.
+[2022.12.01-21.07.27:296][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-21.07.27:296][559]LogLoad: Game class is 'bp_platformer_C'
+[2022.12.01-21.07.27:298][559]LogWorld: Bringing World /Game/Maps/map_1/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2022.12.01-15.07.27
+[2022.12.01-21.07.27:298][559]LogWorld: Bringing up level for play took: 0.001041
+[2022.12.01-21.07.27:298][559]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2022.12.01-21.07.27:302][559]PIE: Server logged in
+[2022.12.01-21.07.27:303][559]PIE: Play in editor total start time 0.154 seconds.
+[2022.12.01-21.07.44:750][629]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.07.44:968][655]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.07.47:110][912]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.07.47:568][967]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.07.54:768][831]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.07.54:976][856]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.07.58:754][306]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-21.07.58:754][306]LogWorld: BeginTearingDown for /Game/Maps/map_1/UEDPIE_0_Untitled
+[2022.12.01-21.07.58:755][306]LogSlate: Window 'gunman_NH Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.12.01-21.07.58:757][306]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-21.07.58:758][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-21.07.58:764][306]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.01-21.07.58:773][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-21.07.58:785][306]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.01-21.07.58:785][306]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.01-21.07.58:786][306]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.01-21.07.58:789][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.12.01-21.07.58:834][308]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.12.01-21.09.10:356][307]Cmd: TRANSACTION UNDO
+[2022.12.01-21.09.10:356][307]LogEditorTransaction: Undo Cut Layer
+[2022.12.01-21.09.11:395][356]Cmd: TRANSACTION UNDO
+[2022.12.01-21.09.11:395][356]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.09.16:314][893]Cmd: TRANSACTION UNDO
+[2022.12.01-21.09.16:314][893]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.09.16:919][911]Cmd: TRANSACTION UNDO
+[2022.12.01-21.09.16:919][911]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.10.13:349][480]Cmd: TRANSACTION UNDO
+[2022.12.01-21.10.13:349][480]LogEditorTransaction: Undo Toggle Layer Visibility
+[2022.12.01-21.10.13:619][486]Cmd: TRANSACTION UNDO
+[2022.12.01-21.10.13:619][486]LogEditorTransaction: Undo Toggle Layer Visibility
+[2022.12.01-21.10.13:884][493]Cmd: TRANSACTION UNDO
+[2022.12.01-21.10.13:884][493]LogEditorTransaction: Undo Toggle Layer Visibility
+[2022.12.01-21.10.14:106][498]Cmd: TRANSACTION UNDO
+[2022.12.01-21.10.14:106][498]LogEditorTransaction: Undo Tile Erasing
+[2022.12.01-21.10.14:324][508]Cmd: TRANSACTION UNDO
+[2022.12.01-21.10.14:324][508]LogEditorTransaction: Undo Tile Erasing
+[2022.12.01-21.10.14:562][535]Cmd: TRANSACTION UNDO
+[2022.12.01-21.10.14:562][535]LogEditorTransaction: Undo Tile Erasing
+[2022.12.01-21.10.14:769][558]Cmd: TRANSACTION UNDO
+[2022.12.01-21.10.14:769][558]LogEditorTransaction: Undo Tile Erasing
+[2022.12.01-21.10.15:007][584]Cmd: TRANSACTION UNDO
+[2022.12.01-21.10.15:007][584]LogEditorTransaction: Undo Tile Erasing
+[2022.12.01-21.10.15:256][612]Cmd: TRANSACTION UNDO
+[2022.12.01-21.10.15:256][612]LogEditorTransaction: Undo Tile Erasing
+[2022.12.01-21.10.16:567][687]Cmd: TRANSACTION UNDO
+[2022.12.01-21.10.16:567][687]LogEditorTransaction: Undo Toggle Layer Visibility
+[2022.12.01-21.10.16:775][696]Cmd: TRANSACTION UNDO
+[2022.12.01-21.10.16:775][696]LogEditorTransaction: Undo Tile Erasing
+[2022.12.01-21.10.17:004][703]Cmd: TRANSACTION UNDO
+[2022.12.01-21.10.17:004][703]LogEditorTransaction: Undo Tile Erasing
+[2022.12.01-21.10.17:190][723]Cmd: TRANSACTION UNDO
+[2022.12.01-21.10.17:190][723]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.10.17:395][736]Cmd: TRANSACTION UNDO
+[2022.12.01-21.10.17:395][736]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.10.17:571][755]Cmd: TRANSACTION UNDO
+[2022.12.01-21.10.17:571][755]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.10.17:770][764]Cmd: TRANSACTION UNDO
+[2022.12.01-21.10.17:770][764]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.10.17:987][770]Cmd: TRANSACTION UNDO
+[2022.12.01-21.10.17:987][770]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.10.18:131][785]Cmd: TRANSACTION UNDO
+[2022.12.01-21.10.18:131][785]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.10.18:288][802]Cmd: TRANSACTION UNDO
+[2022.12.01-21.10.18:288][802]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.10.18:446][819]Cmd: TRANSACTION UNDO
+[2022.12.01-21.10.18:446][819]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.10.19:905][970]Cmd: TRANSACTION UNDO
+[2022.12.01-21.10.19:905][970]LogEditorTransaction: Undo Toggle Layer Visibility
+[2022.12.01-21.10.20:105][975]Cmd: TRANSACTION UNDO
+[2022.12.01-21.10.20:105][975]LogEditorTransaction: Undo Toggle Layer Visibility
+[2022.12.01-21.10.42:731][576]Cmd: TRANSACTION UNDO
+[2022.12.01-21.10.42:731][576]LogEditorTransaction: Undo Tile Erasing
+[2022.12.01-21.10.42:976][583]Cmd: TRANSACTION UNDO
+[2022.12.01-21.10.42:976][583]LogEditorTransaction: Undo Toggle Layer Visibility
+[2022.12.01-21.10.43:211][589]Cmd: TRANSACTION UNDO
+[2022.12.01-21.10.43:211][589]LogEditorTransaction: Undo Toggle Layer Visibility
+[2022.12.01-21.10.43:558][597]Cmd: TRANSACTION UNDO
+[2022.12.01-21.10.43:558][597]LogEditorTransaction: Undo Tile Erasing
+[2022.12.01-21.10.56:718][864]LogSavePackage: Moving '../../../../../../Users/NeHer/OneDrive/Documents/games im workin on/Gunman_masterfolder/gunman_NH/Saved/city_subway_mapF82E230B416FE7630AFF7CA42A3EE980.tmp' to '../../../../../../Users/NeHer/OneDrive/Documents/games im workin on/Gunman_masterfolder/gunman_NH/Content/nicola_h_content/tilesets/city_subway_map.uasset'
+[2022.12.01-21.10.56:725][864]AssetCheck: New page: Asset Save: city_subway_map
+[2022.12.01-21.10.56:725][864]LogContentValidation: Display: Validating PaperTileMap /Game/nicola_h_content/tilesets/city_subway_map.city_subway_map
+[2022.12.01-21.10.57:593][959]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.12.01-21.10.57:597][959]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.01-21.10.57:597][959]PIE: New page: PIE session: Untitled (Dec 1, 2022, 9:10:57 AM)
+[2022.12.01-21.10.57:597][959]LogPlayLevel: Creating play world package: /Game/Maps/map_1/UEDPIE_0_Untitled
+[2022.12.01-21.10.57:599][959]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001479s)
+[2022.12.01-21.10.57:599][959]LogAIModule: Creating AISystem for world Untitled
+[2022.12.01-21.10.57:599][959]LogPlayLevel: PIE: World Init took: (0.000777s)
+[2022.12.01-21.10.57:599][959]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/map_1/Untitled.Untitled to /Game/Maps/map_1/UEDPIE_0_Untitled.Untitled (0.002322s)
+[2022.12.01-21.10.57:642][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.12.01-21.10.57:670][959]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2022.12.01-21.10.57:670][959]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.01-21.10.57:670][959]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.01-21.10.57:670][959]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.01-21.10.57:670][959]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.01-21.10.57:670][959]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.01-21.10.57:670][959]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.01-21.10.57:670][959]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.01-21.10.57:670][959]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.01-21.10.57:671][959]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.01-21.10.57:671][959]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.01-21.10.57:671][959]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.01-21.10.57:671][959]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.01-21.10.57:672][959]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.01-21.10.57:672][959]LogAudioMixer: Display: 1: FrontRight
+[2022.12.01-21.10.57:676][959]LogAudioMixer: Display: Using Audio Device Headphones (Realtek USB2.0 Audio)
+[2022.12.01-21.10.57:677][959]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.01-21.10.57:677][959]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.01-21.10.57:677][959]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.01-21.10.57:677][959]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.01-21.10.57:677][959]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.01-21.10.57:677][959]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.01-21.10.57:678][959]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.01-21.10.57:678][959]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.01-21.10.57:678][959]LogInit: FAudioDevice initialized.
+[2022.12.01-21.10.57:678][959]LogAudio: Display: Audio Device (ID: 22) registered with world 'Untitled'.
+[2022.12.01-21.10.57:719][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-21.10.57:719][959]LogLoad: Game class is 'bp_platformer_C'
+[2022.12.01-21.10.57:721][959]LogWorld: Bringing World /Game/Maps/map_1/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2022.12.01-15.10.57
+[2022.12.01-21.10.57:721][959]LogWorld: Bringing up level for play took: 0.000865
+[2022.12.01-21.10.57:721][959]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2022.12.01-21.10.57:725][959]PIE: Server logged in
+[2022.12.01-21.10.57:726][959]PIE: Play in editor total start time 0.13 seconds.
+[2022.12.01-21.11.02:262][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-21.11.02:262][459]LogWorld: BeginTearingDown for /Game/Maps/map_1/UEDPIE_0_Untitled
+[2022.12.01-21.11.02:263][459]LogSlate: Window 'gunman_NH Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.12.01-21.11.02:265][459]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-21.11.02:266][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-21.11.02:274][459]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.01-21.11.02:283][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-21.11.02:295][459]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.01-21.11.02:295][459]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.01-21.11.02:296][459]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.01-21.11.02:299][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.12.01-21.11.02:347][460]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.12.01-21.11.02:353][461]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.12.01-21.11.06:211][824]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.12.01-21.11.06:215][824]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.01-21.11.06:215][824]PIE: New page: PIE session: Untitled (Dec 1, 2022, 9:11:06 AM)
+[2022.12.01-21.11.06:215][824]LogPlayLevel: Creating play world package: /Game/Maps/map_1/UEDPIE_0_Untitled
+[2022.12.01-21.11.06:216][824]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001476s)
+[2022.12.01-21.11.06:217][824]LogAIModule: Creating AISystem for world Untitled
+[2022.12.01-21.11.06:217][824]LogPlayLevel: PIE: World Init took: (0.000749s)
+[2022.12.01-21.11.06:217][824]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/map_1/Untitled.Untitled to /Game/Maps/map_1/UEDPIE_0_Untitled.Untitled (0.002297s)
+[2022.12.01-21.11.06:231][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.12.01-21.11.06:232][824]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2022.12.01-21.11.06:232][824]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.01-21.11.06:232][824]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.01-21.11.06:232][824]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.01-21.11.06:232][824]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.01-21.11.06:232][824]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.01-21.11.06:232][824]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.01-21.11.06:232][824]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.01-21.11.06:232][824]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.01-21.11.06:232][824]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.01-21.11.06:232][824]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.01-21.11.06:232][824]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.01-21.11.06:232][824]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.01-21.11.06:234][824]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.01-21.11.06:234][824]LogAudioMixer: Display: 1: FrontRight
+[2022.12.01-21.11.06:238][824]LogAudioMixer: Display: Using Audio Device Headphones (Realtek USB2.0 Audio)
+[2022.12.01-21.11.06:238][824]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.01-21.11.06:238][824]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.01-21.11.06:238][824]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.01-21.11.06:238][824]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.01-21.11.06:238][824]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.01-21.11.06:238][824]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.01-21.11.06:239][824]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.01-21.11.06:239][824]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.01-21.11.06:239][824]LogInit: FAudioDevice initialized.
+[2022.12.01-21.11.06:239][824]LogAudio: Display: Audio Device (ID: 23) registered with world 'Untitled'.
+[2022.12.01-21.11.06:293][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-21.11.06:293][824]LogLoad: Game class is 'bp_platformer_C'
+[2022.12.01-21.11.06:295][824]LogWorld: Bringing World /Game/Maps/map_1/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2022.12.01-15.11.06
+[2022.12.01-21.11.06:295][824]LogWorld: Bringing up level for play took: 0.000948
+[2022.12.01-21.11.06:295][824]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2022.12.01-21.11.06:299][824]PIE: Server logged in
+[2022.12.01-21.11.06:300][824]PIE: Play in editor total start time 0.086 seconds.
+[2022.12.01-21.11.15:778][958]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.11.16:112][998]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.11.18:503][285]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.11.19:370][389]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.11.20:654][543]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.11.21:161][604]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.11.21:695][668]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.11.21:879][690]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.11.23:561][892]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.11.23:720][911]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.11.26:428][236]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.11.26:837][285]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.11.27:486][363]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.11.27:628][380]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.11.30:626][738]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.11.30:826][762]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.11.31:502][843]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.11.32:226][930]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.11.33:176][ 44]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.11.33:393][ 70]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.11.35:669][343]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.11.35:919][373]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.11.38:185][645]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.11.38:435][675]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.11.42:860][206]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.11.43:769][315]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.11.44:786][437]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.11.44:918][453]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.11.45:802][559]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.11.45:936][575]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.11.47:061][710]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.11.47:294][738]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.11.48:502][883]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.11.48:744][912]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.11.49:894][ 50]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.11.50:319][101]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.11.51:119][197]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.11.51:753][273]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.11.52:219][329]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.11.53:086][433]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.11.53:820][521]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.11.54:752][633]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.11.55:094][674]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.11.55:836][763]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.11.56:628][858]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.11.57:052][909]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.11.57:603][975]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.11.57:878][  8]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.11.58:836][123]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.11.59:045][148]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.11.59:836][243]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.12.00:478][320]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.12.01:378][428]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.12.01:644][460]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.12.02:570][571]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.12.03:411][672]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.12.04:378][788]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.12.04:728][830]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.12.05:362][906]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.12.05:603][935]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.12.07:103][115]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.12.07:978][220]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.12.10:146][480]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.12.10:346][504]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.12.11:072][591]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.12.11:288][617]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.12.12:323][741]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.12.12:639][779]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.12.16:005][183]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.12.16:189][205]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.12.17:989][421]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.12.18:589][493]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.12.19:831][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-21.12.19:831][638]LogWorld: BeginTearingDown for /Game/Maps/map_1/UEDPIE_0_Untitled
+[2022.12.01-21.12.19:832][638]LogSlate: Window 'gunman_NH Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.12.01-21.12.19:835][638]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-21.12.19:835][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-21.12.19:842][638]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.01-21.12.19:851][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-21.12.19:863][638]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.01-21.12.19:864][638]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.01-21.12.19:868][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.12.01-21.12.19:921][640]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.12.01-21.12.32:367][119]Cmd: TRANSACTION UNDO
+[2022.12.01-21.12.32:367][119]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.12.38:646][717]Cmd: TRANSACTION UNDO
+[2022.12.01-21.12.38:646][717]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.14.13:509][156]Cmd: TRANSACTION UNDO
+[2022.12.01-21.14.13:509][156]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.14.14:401][188]Cmd: TRANSACTION UNDO
+[2022.12.01-21.14.14:401][188]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.14.29:971][812]Cmd: TRANSACTION UNDO
+[2022.12.01-21.14.29:971][812]LogEditorTransaction: Undo Cut Layer
+[2022.12.01-21.14.30:429][825]Cmd: TRANSACTION UNDO
+[2022.12.01-21.14.30:429][825]LogEditorTransaction: Undo Cut Layer
+[2022.12.01-21.14.30:759][836]Cmd: TRANSACTION UNDO
+[2022.12.01-21.14.30:759][836]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.14.31:441][900]Cmd: TRANSACTION UNDO
+[2022.12.01-21.14.31:441][900]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.14.31:743][934]Cmd: TRANSACTION UNDO
+[2022.12.01-21.14.31:743][934]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.14.32:007][964]Cmd: TRANSACTION UNDO
+[2022.12.01-21.14.32:007][964]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.14.32:226][988]Cmd: TRANSACTION UNDO
+[2022.12.01-21.14.32:226][988]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.14.32:399][  7]Cmd: TRANSACTION UNDO
+[2022.12.01-21.14.32:399][  7]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.14.32:576][ 27]Cmd: TRANSACTION UNDO
+[2022.12.01-21.14.32:576][ 27]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.14.32:740][ 45]Cmd: TRANSACTION UNDO
+[2022.12.01-21.14.32:740][ 45]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.14.32:899][ 62]Cmd: TRANSACTION UNDO
+[2022.12.01-21.14.32:899][ 62]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.14.33:072][ 81]Cmd: TRANSACTION UNDO
+[2022.12.01-21.14.33:072][ 81]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.14.33:244][100]Cmd: TRANSACTION UNDO
+[2022.12.01-21.14.33:244][100]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.14.33:432][121]Cmd: TRANSACTION UNDO
+[2022.12.01-21.14.33:433][121]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.14.33:619][142]Cmd: TRANSACTION UNDO
+[2022.12.01-21.14.33:619][142]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.14.33:817][164]Cmd: TRANSACTION UNDO
+[2022.12.01-21.14.33:817][164]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.14.58:726][ 52]Cmd: TRANSACTION UNDO
+[2022.12.01-21.14.58:726][ 52]LogEditorTransaction: Undo Tile Paint Bucket
+[2022.12.01-21.15.02:400][334]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.02:400][334]LogEditorTransaction: Undo Tile Paint Bucket
+[2022.12.01-21.15.13:849][397]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.13:849][397]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.14:167][406]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.14:167][406]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.14:415][413]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.14:416][413]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.14:623][416]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.14:623][416]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.14:801][435]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.14:801][435]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.14:995][456]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.14:995][456]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.15:175][476]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.15:175][476]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.15:376][498]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.15:376][498]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.15:570][520]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.15:570][520]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.15:788][544]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.15:788][544]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.16:014][570]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.16:014][570]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.16:218][593]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.16:218][593]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.16:404][614]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.16:404][614]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.16:611][637]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.16:611][637]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.16:818][660]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.16:818][660]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.17:012][682]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.17:012][682]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.17:217][704]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.17:217][704]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.17:428][728]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.17:428][728]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.17:630][751]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.17:630][751]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.17:813][771]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.17:813][771]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.17:969][788]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.17:969][788]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.18:122][805]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.18:122][805]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.18:280][822]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.18:280][822]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.18:437][839]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.18:437][839]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.18:615][859]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.18:615][859]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.18:770][876]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.18:770][876]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.18:922][893]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.18:922][893]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.19:085][911]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.19:085][911]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.19:261][931]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.19:261][931]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.19:463][954]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.19:463][954]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.19:657][976]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.19:658][976]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.19:902][  4]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.19:902][  4]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.20:089][ 25]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.20:089][ 25]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.20:282][ 47]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.20:282][ 47]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.20:488][ 70]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.20:488][ 70]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.20:690][ 93]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.20:690][ 93]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.20:884][115]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.20:885][115]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.21:096][139]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.21:096][139]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.21:298][162]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.21:298][162]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.21:502][185]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.21:502][185]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.21:722][210]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.21:722][210]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.21:949][236]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.21:949][236]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.22:165][260]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.22:165][260]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.22:374][284]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.22:374][284]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.22:569][306]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.22:569][306]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.22:773][329]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.22:773][329]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.22:983][353]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.22:983][353]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.23:177][375]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.23:177][375]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.23:380][398]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.23:380][398]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.23:583][421]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.23:583][421]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.23:818][448]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.23:819][448]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.24:035][472]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.24:035][472]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.24:244][495]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.24:244][495]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.24:467][520]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.24:467][520]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.24:674][543]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.24:674][543]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.24:871][565]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.24:871][565]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.25:050][585]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.25:050][585]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.25:271][610]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.25:271][610]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.25:495][635]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.25:495][635]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.25:718][660]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.25:718][660]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.25:926][683]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.25:926][683]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.26:121][705]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.26:121][705]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.26:360][732]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.26:360][732]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.31:104][281]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.31:104][281]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.31:467][292]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.31:467][292]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.31:710][300]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.31:710][300]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.31:917][311]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.31:917][311]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.15.32:165][338]Cmd: TRANSACTION UNDO
+[2022.12.01-21.15.32:165][338]LogEditorTransaction: Undo Tile Painting
+[2022.12.01-21.16.41:234][ 99]LogSavePackage: Moving '../../../../../../Users/NeHer/OneDrive/Documents/games im workin on/Gunman_masterfolder/gunman_NH/Saved/city_subway_map4B2507A54B4CC02866E8C6B18A78290B.tmp' to '../../../../../../Users/NeHer/OneDrive/Documents/games im workin on/Gunman_masterfolder/gunman_NH/Content/nicola_h_content/tilesets/city_subway_map.uasset'
+[2022.12.01-21.16.41:241][ 99]AssetCheck: New page: Asset Save: city_subway_map
+[2022.12.01-21.16.41:241][ 99]LogContentValidation: Display: Validating PaperTileMap /Game/nicola_h_content/tilesets/city_subway_map.city_subway_map
+[2022.12.01-21.16.42:671][248]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.12.01-21.16.42:675][248]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.01-21.16.42:675][248]PIE: New page: PIE session: Untitled (Dec 1, 2022, 9:16:42 AM)
+[2022.12.01-21.16.42:675][248]LogPlayLevel: Creating play world package: /Game/Maps/map_1/UEDPIE_0_Untitled
+[2022.12.01-21.16.42:677][248]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001573s)
+[2022.12.01-21.16.42:677][248]LogAIModule: Creating AISystem for world Untitled
+[2022.12.01-21.16.42:678][248]LogPlayLevel: PIE: World Init took: (0.000834s)
+[2022.12.01-21.16.42:678][248]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/map_1/Untitled.Untitled to /Game/Maps/map_1/UEDPIE_0_Untitled.Untitled (0.002482s)
+[2022.12.01-21.16.42:746][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.12.01-21.16.42:799][248]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2022.12.01-21.16.42:799][248]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.01-21.16.42:799][248]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.01-21.16.42:799][248]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.01-21.16.42:799][248]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.01-21.16.42:799][248]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.01-21.16.42:800][248]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.01-21.16.42:800][248]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.01-21.16.42:800][248]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.01-21.16.42:800][248]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.01-21.16.42:800][248]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.01-21.16.42:800][248]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.01-21.16.42:800][248]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.01-21.16.42:802][248]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.01-21.16.42:802][248]LogAudioMixer: Display: 1: FrontRight
+[2022.12.01-21.16.42:807][248]LogAudioMixer: Display: Using Audio Device Headphones (Realtek USB2.0 Audio)
+[2022.12.01-21.16.42:807][248]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.01-21.16.42:807][248]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.01-21.16.42:807][248]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.01-21.16.42:807][248]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.01-21.16.42:808][248]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.01-21.16.42:808][248]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.01-21.16.42:808][248]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.01-21.16.42:808][248]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.01-21.16.42:809][248]LogInit: FAudioDevice initialized.
+[2022.12.01-21.16.42:809][248]LogAudio: Display: Audio Device (ID: 24) registered with world 'Untitled'.
+[2022.12.01-21.16.42:856][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-21.16.42:856][248]LogLoad: Game class is 'bp_platformer_C'
+[2022.12.01-21.16.42:857][248]LogWorld: Bringing World /Game/Maps/map_1/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2022.12.01-15.16.42
+[2022.12.01-21.16.42:858][248]LogWorld: Bringing up level for play took: 0.000924
+[2022.12.01-21.16.42:858][248]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2022.12.01-21.16.42:862][248]PIE: Server logged in
+[2022.12.01-21.16.42:863][248]PIE: Play in editor total start time 0.188 seconds.
+[2022.12.01-21.16.45:339][528]LogSlate: Window 'gunman_NH Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.12.01-21.16.45:342][528]LogWorld: BeginTearingDown for /Game/Maps/map_1/UEDPIE_0_Untitled
+[2022.12.01-21.16.45:388][528]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-21.16.45:389][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-21.16.45:398][528]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.01-21.16.45:407][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-21.16.45:419][528]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.01-21.16.45:419][528]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.01-21.16.45:419][528]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.01-21.16.45:423][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.12.01-21.16.45:451][529]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.12.01-21.16.47:681][794]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.12.01-21.16.54:977][546]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.12.01-21.16.56:624][743]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.12.01-21.16.57:592][857]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.12.01-21.16.57:596][857]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.01-21.16.57:596][857]PIE: New page: PIE session: Untitled (Dec 1, 2022, 9:16:57 AM)
+[2022.12.01-21.16.57:596][857]LogPlayLevel: Creating play world package: /Game/Maps/map_1/UEDPIE_0_Untitled
+[2022.12.01-21.16.57:598][857]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001537s)
+[2022.12.01-21.16.57:599][857]LogAIModule: Creating AISystem for world Untitled
+[2022.12.01-21.16.57:599][857]LogPlayLevel: PIE: World Init took: (0.000982s)
+[2022.12.01-21.16.57:599][857]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/map_1/Untitled.Untitled to /Game/Maps/map_1/UEDPIE_0_Untitled.Untitled (0.002584s)
+[2022.12.01-21.16.57:612][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.12.01-21.16.57:615][857]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2022.12.01-21.16.57:615][857]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.01-21.16.57:615][857]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.01-21.16.57:615][857]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.01-21.16.57:615][857]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.01-21.16.57:615][857]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.01-21.16.57:615][857]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.01-21.16.57:615][857]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.01-21.16.57:615][857]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.01-21.16.57:615][857]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.01-21.16.57:615][857]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.01-21.16.57:615][857]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.01-21.16.57:615][857]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.01-21.16.57:617][857]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.01-21.16.57:617][857]LogAudioMixer: Display: 1: FrontRight
+[2022.12.01-21.16.57:620][857]LogAudioMixer: Display: Using Audio Device Headphones (Realtek USB2.0 Audio)
+[2022.12.01-21.16.57:621][857]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.01-21.16.57:621][857]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.01-21.16.57:621][857]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.01-21.16.57:621][857]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.01-21.16.57:621][857]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.01-21.16.57:621][857]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.01-21.16.57:622][857]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.01-21.16.57:622][857]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.01-21.16.57:622][857]LogInit: FAudioDevice initialized.
+[2022.12.01-21.16.57:622][857]LogAudio: Display: Audio Device (ID: 25) registered with world 'Untitled'.
+[2022.12.01-21.16.57:668][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-21.16.57:668][857]LogLoad: Game class is 'bp_platformer_C'
+[2022.12.01-21.16.57:669][857]LogWorld: Bringing World /Game/Maps/map_1/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2022.12.01-15.16.57
+[2022.12.01-21.16.57:670][857]LogWorld: Bringing up level for play took: 0.000934
+[2022.12.01-21.16.57:670][857]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2022.12.01-21.16.57:674][857]PIE: Server logged in
+[2022.12.01-21.16.57:675][857]PIE: Play in editor total start time 0.08 seconds.
+[2022.12.01-21.17.00:324][171]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.17.01:225][279]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.17.02:250][402]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.17.02:458][427]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.17.03:191][515]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.17.03:375][537]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.17.04:600][684]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.17.04:808][709]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.17.07:556][ 37]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.17.07:714][ 56]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.17.08:889][197]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.17.09:022][213]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.17.10:513][392]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.17.10:639][407]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.17.13:339][731]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.17.13:530][754]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.17.14:364][854]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.17.14:497][870]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.17.15:655][  9]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.17.16:339][ 91]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.17.16:848][152]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.17.17:064][178]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.17.17:831][270]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.17.18:164][310]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.17.22:072][779]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.17.22:240][799]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.17.23:123][905]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.17.23:240][919]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.17.24:256][ 41]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.17.24:447][ 64]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.17.26:156][269]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.17.26:314][288]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.17.27:206][395]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.17.27:348][412]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.17.28:331][530]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.17.28:647][568]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.17.29:647][688]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.17.29:881][716]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.17.30:639][807]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.17.31:239][879]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.17.31:765][942]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.17.32:023][973]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.17.33:023][ 93]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.17.33:889][197]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.17.34:506][271]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.17.34:707][295]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.17.35:906][439]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.17.36:623][525]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.17.37:140][587]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.17.37:340][611]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.17.38:023][693]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.17.38:239][719]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.17.40:240][959]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.17.40:398][978]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.17.42:882][276]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.17.43:015][292]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.17.44:273][443]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.17.44:373][455]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.17.49:240][ 39]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.17.49:857][113]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.17.50:865][234]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.17.51:049][256]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.17.51:858][353]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.17.52:057][377]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.17.53:057][497]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.17.53:382][536]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.17.56:782][944]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.17.57:124][985]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.17.57:574][ 39]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.17.57:782][ 64]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.17.58:715][176]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.17.58:957][205]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.18.00:074][339]LogBlueprintUserMessages: [bp_gunman_C_0] jump
+[2022.12.01-21.18.00:391][377]LogBlueprintUserMessages: [bp_gunman_C_0] fall
+[2022.12.01-21.18.01:048][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-21.18.01:048][451]LogWorld: BeginTearingDown for /Game/Maps/map_1/UEDPIE_0_Untitled
+[2022.12.01-21.18.01:049][451]LogSlate: Window 'gunman_NH Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.12.01-21.18.01:052][451]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-21.18.01:052][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-21.18.01:062][451]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.01-21.18.01:072][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-21.18.01:084][451]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.01-21.18.01:085][451]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.01-21.18.01:088][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.12.01-21.18.01:109][452]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2022.12.01-21.18.03:406][705]LogSlate: Window 'bp_gunman' being destroyed
+[2022.12.01-21.18.03:409][705]LogSlate: Window 'bp_gunman' being destroyed
+[2022.12.01-21.18.03:411][705]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-21.18.03:411][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-21.18.03:435][705]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-21.18.03:435][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-21.18.06:333][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.12.01-21.18.06:355][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.12.01-21.18.06:360][976]LogSavePackage: Moving '../../../../../../Users/NeHer/OneDrive/Documents/games im workin on/Gunman_masterfolder/gunman_NH/Saved/Untitled8D20DD1C472F7D299F168FA4A4F7323F.tmp' to '../../../../../../Users/NeHer/OneDrive/Documents/games im workin on/Gunman_masterfolder/gunman_NH/Content/Maps/map_1/Untitled.umap'
+[2022.12.01-21.18.06:368][976]LogFileHelpers: Saving map 'Untitled' took 0.024
+[2022.12.01-21.18.06:375][976]AssetCheck: New page: Asset Save: Untitled
+[2022.12.01-21.18.06:375][976]LogContentValidation: Display: Validating World /Game/Maps/map_1/Untitled.Untitled

@@ -1102,3 +1102,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.12.01-19.45.58:317][673]LogEditorTransaction: Undo Delete current selection
 [2022.12.01-19.46.03:378][983]BlueprintLog: New page: Compile bp_gunman
 [2022.12.01-19.46.03:408][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.12.01-19.53.20:259][100]LogSavePackage: Moving '../../../../../../Users/NeHer/OneDrive/Documents/games im workin on/Gunman_masterfolder/gunman_NH/Saved/bp_gunman4B0FBD254D1F0C8926009DA3881F1DB0.tmp' to '../../../../../../Users/NeHer/OneDrive/Documents/games im workin on/Gunman_masterfolder/gunman_NH/Content/Blueprints/bp_gunman.uasset'
+[2022.12.01-19.53.20:270][100]AssetCheck: New page: Asset Save: bp_gunman
+[2022.12.01-19.53.20:271][100]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/bp_gunman.bp_gunman
+[2022.12.01-19.53.21:360][223]LogSlate: Window 'bp_gunman' being destroyed
+[2022.12.01-19.53.21:363][223]LogSlate: Window 'bp_gunman' being destroyed
+[2022.12.01-19.53.21:365][223]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-19.53.21:365][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated

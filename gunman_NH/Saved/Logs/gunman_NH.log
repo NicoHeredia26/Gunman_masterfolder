@@ -2594,3 +2594,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.12.07-20.12.40:972][780]LogContentValidation: Display: Validating World /Game/Maps/map_1/Untitled.Untitled
 [2022.12.07-20.12.40:972][780]LogContentValidation: Display: Validating PaperTileMap /Game/nicola_h_content/tilesets/city_subway_map.city_subway_map
 [2022.12.07-20.12.40:972][780]LogContentValidation: Display: Validating PaperTileSet /Game/nicola_h_content/background/last_sets_of_assets_TileSet.last_sets_of_assets_TileSet
+[2022.12.07-20.15.26:909][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
